@@ -1,0 +1,12 @@
+export const LANDING = "/";
+export const HOME = "/home";
+export const GALLERY = "/gallery";
+export const NEWS = "/news";
+export const EVENTS = "/events";
+export const ABOUT_US = "/aboutus";
+export const JOIN_US = "/joinus";
+export const SIGN_UP = "/signup";
+export const SIGN_IN = "/signin";
+export const ACCOUNT = "/account";
+export const ADMIN = "/admin";
+export const PASSWORD_FORGET = "/pw-forget";
